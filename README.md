@@ -1,5 +1,7 @@
 ### OpenCV: Open Source Computer Vision Library
 
+THIS BRANCH IS MAINTAINED ONLY TO SUPPORT CUDA8.
+
 [![Gittip](http://img.shields.io/gittip/OpenCV.png)](https://www.gittip.com/OpenCV/)
 
 #### Resources
