@@ -4,6 +4,6 @@ git clone git@github.com:kevinhikali/opencv.git
 git checkout 3.1.0-with-cuda8
 mkdir build
 cd build
-cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local .. -D WITH_CUDA=ON
 make -j8
 sudo make install
